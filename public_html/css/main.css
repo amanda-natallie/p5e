@@ -1,0 +1,20 @@
+@font-face {
+    font-family: CenturyGothic;
+    src: url(../font/CenturyGothic.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+/*   border: 1px solid #f00*/
+}
+*:not(.fa){
+    font-family: CenturyGothic, sans-serif !important;
+}
+.navbar{
+    padding: 20px 0
+}
+.navbar-brand .logo {
+    max-height: 50px;
+    margin-top: -10px
+}
