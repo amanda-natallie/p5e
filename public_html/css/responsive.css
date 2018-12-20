@@ -4,7 +4,7 @@
         margin-right: -30px;
     }
 }
-@media all and (max-width:1366px){
+@media all and (max-width:1365px){
     .bg-slider, .slider {
         height:45vh;
     }
