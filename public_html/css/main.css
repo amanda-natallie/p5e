@@ -33,6 +33,22 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px
 }
 /*Elementos*/
+.stroke-red-button:hover {
+    color: #fff
+}
+.stroke-red-button {
+    background: #900;
+    padding: 20px 30px;
+    color: #fff;
+    margin: 30px auto;
+    display: table;
+    font-size: 18px;
+}
+.align-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .font-35 {
     font-size: 35px
 }
@@ -45,6 +61,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .no-padding {
     padding: 0 !important
+}
+.no-margin {
+    margin: 0 !important
 }
 a:hover {
     text-decoration: none
@@ -69,16 +88,21 @@ a:hover {
 .bg-image {
     background: url(../img/bg.jpg) top center repeat;
     background-size: 100%;
-
+}
+.bg-red {
+    background: #900
 }
 .color-inverse *{
     color: #fff !important
+}
+.heading-p {
+    font-size: 20px
 }
 /*Botoes flutuantes*/
 .logo-flutuante {
     position: absolute;
     top:120px;
-    left: 36%;
+    left: 42%;
     z-index: 999 !important
 }
 .logo-flutuante img {
@@ -112,8 +136,8 @@ a:hover {
     padding: 20px 0
 }
 .navbar-brand .logo {
-    max-height: 50px;
-    margin-top: -10px
+    max-height: 100px;
+    margin-top: -30px
 }
 
 /*slider*/
@@ -272,4 +296,48 @@ a:hover {
 .owl-theme .owl-controls .owl-dots.active span,
 .owl-theme .owl-controls.clickable .owl-dots:hover span{
     background: #3F51B5;
+}
+
+.recrutamentos img{
+    margin-top: -60px
+}
+.max-width-100, .max-width-100 * {
+    max-width: 100% !important
+}
+
+
+.font-60 {
+font-size: 60px
+}
+
+.bg-gray {
+background: #373737
+}
+
+.lista-footer-esquerda {
+list-style: none;
+border-left: 5px solid #900;
+padding-left: 10px;
+}
+.lista-footer-esquerda li{
+    margin: 5px
+}
+
+.logo-footer img{
+max-height: 140px
+}
+
+.social-footer {
+list-style: none;
+padding-left: 10px;
+margin-top: 10px
+}
+.social-footer li{
+    display:inline;
+    margin: 5px
+} 
+
+.lista-footer-direita {
+width: 100%;
+list-style: none
 }
