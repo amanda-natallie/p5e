@@ -1,0 +1,99 @@
+[05-Jan-2019 03:07:57 UTC] PHP Warning:  require(app-adm/config.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:07:57 UTC] PHP Warning:  require(app-adm/config.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:07:57 UTC] PHP Fatal error:  require(): Failed opening required 'app-adm/config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:09:16 UTC] PHP Warning:  require(app-adm/config.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:09:16 UTC] PHP Warning:  require(app-adm/config.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:09:16 UTC] PHP Fatal error:  require(): Failed opening required 'app-adm/config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 03:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 03:09:59 UTC] PHP Warning:  require(app-adm/config.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:09:59 UTC] PHP Warning:  require(app-adm/config.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:09:59 UTC] PHP Fatal error:  require(): Failed opening required 'app-adm/config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/criativin/public_html/desenvolvimento/p5e-site/funcoes.php on line 9
+[05-Jan-2019 03:10:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 03:10:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 03:10:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 03:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 03:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 03:12:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 03:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[05-Jan-2019 14:54:24 UTC] PHP Warning:  require(header.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/orcamento.php on line 1
+[05-Jan-2019 14:54:24 UTC] PHP Warning:  require(header.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/orcamento.php on line 1
+[05-Jan-2019 14:54:24 UTC] PHP Fatal error:  require(): Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/criativin/public_html/desenvolvimento/p5e-site/orcamento.php on line 1
+[07-Jan-2019 14:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:54:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:54:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[07-Jan-2019 14:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[09-Jan-2019 11:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[09-Jan-2019 11:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/criativin/public_html/desenvolvimento/p5e-site/login.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/criativin/public_html/desenvolvimento/p5e-site/login.php on line 97
+[09-Jan-2019 11:27:46 UTC] PHP Warning:  require(header.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/orcamento.php on line 1
+[09-Jan-2019 11:27:46 UTC] PHP Warning:  require(header.php): failed to open stream: No such file or directory in /home/criativin/public_html/desenvolvimento/p5e-site/orcamento.php on line 1
+[09-Jan-2019 11:27:46 UTC] PHP Fatal error:  require(): Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/criativin/public_html/desenvolvimento/p5e-site/orcamento.php on line 1
